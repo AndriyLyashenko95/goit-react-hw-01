@@ -1,0 +1,7 @@
+.transactionItem {
+  background-color: #fff;
+}
+
+.transactionItem:nth-child(even) {
+  background-color: #f9f9f9;
+}
